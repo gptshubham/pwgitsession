@@ -8,4 +8,8 @@ class Launch
    {
        system.out.println("Hello Java Lowers!");
    }
+   void m3()
+   {
+       system.out.println("Hello Java Lowers!");
+   }
 }
